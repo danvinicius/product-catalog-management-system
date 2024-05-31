@@ -19,6 +19,7 @@ The aim of this project is to practice Java and Spring Framework with message-qu
 
 - [Installation](#installation)
 - [Configuration](#configuration)
+- [System Design](#system-design)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 
@@ -47,6 +48,9 @@ aws.secretKey=111111
 ```bash
 docker run -p 27017:27017 -d mongo
 ```
+
+## System Design
+<img src="251830174-504ba448-f128-41db-ae86-18dc19c0dc9d.png" alt="System Design" title="System Design" />
 
 ## Usage
 
